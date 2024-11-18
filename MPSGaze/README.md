@@ -6,13 +6,15 @@ To download the MPSGaze dataset, please register here https://forms.gle/1L1fdgQB
 (We will send you a link to download as soon as the data is prepared and your request is reviewed)
 
 ## Label explanation
-We expand the data label based on:
+We extend the data label based on:
 
 http://shuoyang1213.me/WIDERFACE/
 
 https://github.com/biubug6/Pytorch_Retinaface
 
-Please note that not every face has a gaze label.
+https://github.com/xucong-zhang/ETH-XGaze
+
+Please note that not every face has a gaze label. (https://github.com/mf-zhang/GazeOnce/issues/8)
 
 **An example in training labels:**
 
