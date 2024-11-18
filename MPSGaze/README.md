@@ -14,7 +14,7 @@ https://github.com/biubug6/Pytorch_Retinaface
 
 https://github.com/xucong-zhang/ETH-XGaze
 
-Please note that not every face has a gaze label. (https://github.com/mf-zhang/GazeOnce/issues/8)
+Please note that not every face has a gaze label. (Issue https://github.com/mf-zhang/GazeOnce/issues/8)
 
 **An example in training labels:**
 
